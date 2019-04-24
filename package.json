@@ -1,6 +1,6 @@
 {
   "name": "@gothbarbie/data-type-tool-belt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functions for working with data types",
   "main": "index.js",
   "scripts": {
