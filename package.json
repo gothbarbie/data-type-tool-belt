@@ -1,5 +1,5 @@
 {
-  "name": "data-type-tool-belt",
+  "name": "@gothbarbie/data-type-tool-belt",
   "version": "1.0.0",
   "description": "Utility functions for working with data types",
   "main": "index.js",
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/gothbarbie/data-type-tool-belt.git"
   },
-  "keywords": [],
+  "keywords": [
+    "utilities",
+    "javascript",
+    "data types"
+  ],
   "author": "Hanna Söderström <contact@hannasoderstrom.com>",
   "license": "ISC",
   "bugs": {
