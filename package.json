@@ -1,5 +1,5 @@
 {
-  "name": "data-type-toolbelt",
+  "name": "data-type-tool-belt",
   "version": "1.0.0",
   "description": "Utility functions for working with data types",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gothbarbie/data-type-toolbelt.git"
+    "url": "git+https://github.com/gothbarbie/data-type-tool-belt.git"
   },
   "keywords": [],
   "author": "Hanna Söderström <contact@hannasoderstrom.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gothbarbie/data-type-toolbelt/issues"
+    "url": "https://github.com/gothbarbie/data-type-tool-belt/issues"
   },
-  "homepage": "https://github.com/gothbarbie/data-type-toolbelt#readme"
+  "homepage": "https://github.com/gothbarbie/data-type-tool-belt#readme"
 }
