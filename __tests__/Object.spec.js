@@ -1,6 +1,6 @@
 const ObjectUtils = require('../Object')
 
-describe('Utils/Object', () => {
+describe('Object', () => {
   describe('isEmptyObject', () => {
     it('returns true if Object is empty', () => {
       const myObject = {}
