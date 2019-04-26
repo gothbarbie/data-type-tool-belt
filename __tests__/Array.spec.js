@@ -1,6 +1,6 @@
 const ArrayUtils = require('../Array')
 
-describe('Utils/Array', () => {
+describe('Array', () => {
   describe('ArrayUtils.insertionSort', () => {
     it('sorts', () => {
       const arrUnsorted = [
